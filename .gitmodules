@@ -12,3 +12,8 @@
 	path = OCA/project
 	url = git@github.com:OCA/project.git
 	branch = 10.0
+
+[submodule "stephane-/odoo_addons"]
+	path = stephane-/odoo_addons
+	url = git@github.com:stephane-/odoo_addons.git
+	branch = 8.0
