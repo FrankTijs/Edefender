@@ -17,3 +17,8 @@
 	path = stephane-/odoo_addons
 	url = git@github.com:stephane-/odoo_addons.git
 	branch = 8.0
+
+[submodule "ezdoo/odoo_ezdoo"]
+	path = ezdoo/odoo_ezdoo
+	url = git@github.com:ezdoo/odoo_ezdoo.git
+	branch = master
