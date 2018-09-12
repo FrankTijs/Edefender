@@ -22,3 +22,8 @@
 	path = ezdoo/odoo_ezdoo
 	url = git@github.com:ezdoo/odoo_ezdoo.git
 	branch = master
+
+[submodule "Fl0rianFischer/Odoo-transparent-navbar"]
+	path = Fl0rianFischer/Odoo-transparent-navbar
+	url = git@github.com:Fl0rianFischer/Odoo-transparent-navbar.git
+	branch = master
